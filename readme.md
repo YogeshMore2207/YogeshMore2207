@@ -95,7 +95,7 @@
 <div align="center">
   
 <div align="center">
-  <img src="https://profile-counter.glitch.me/iamajaygaur/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/YogeshMore220/count.svg?"  />
 </div>
   
 </div>
