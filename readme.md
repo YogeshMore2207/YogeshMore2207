@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Ajay</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Yogesh</h1></summary>
   </ul>
 </div>
 
@@ -43,7 +43,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,gcp,aws,git,github,githubactions,bash,jenkins,kubernetes,maven,ansible,docker,prometheus,grafana,linux,mysql,figma,py,django,eclipse,java,c,html,css,js,bootstrap,latex,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=azure,gcp,aws,git,github,githubactions,bash,jenkins,kubernetes,maven,ansible,docker,prometheus,grafana,linux,mysql,py,eclipse,java,c,html,css,js,bootstrap,latex,vscode&perline=14" />
   </a>
 </p>
   <!--- stats (start) -->
