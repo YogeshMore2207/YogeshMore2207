@@ -54,7 +54,7 @@
 <tr border="none">
 <td width="50%" align="center">
 <div align="center">
-  <img src="![yogeshmore2207's Stats](https://github-readme-stats.vercel.app/api?username=yogeshmore2207&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=yogeshmore2207&theme=highcontrast&show_icons=true&hide_border=true&count_private=true"/>
 </td>
 
 <td width="50%" align="center">
