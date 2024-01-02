@@ -93,7 +93,6 @@
 <div align="center">
   
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogeshmore2207&theme=highcontrast&show_icons=true&hide_border=true&count_private=true"/>
   <img src="https://profile-counter.glitch.me/YogeshMore220/count.svg?"  />
 </div>
   
